@@ -1,4 +1,4 @@
-# -Predictive-Analysis-Brazilian-E-commerce-dataset.
+# -Predictive-Analysis-Brazilian-E-commerce-dataset.(Regression Problem)
 
 Olist, a prominent Brazilian e-commerce platform, aims to optimize its pricing strategy to maximize revenue and customer satisfaction. To achieve this objective, Olist seeks to develop a robust predictive model that accurately forecasts the prices of products listed on its platform.
 
